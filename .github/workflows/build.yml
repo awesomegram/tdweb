@@ -102,7 +102,7 @@ jobs:
         uses: zwaldowski/git-commit-action@v1
         with:
           working_directory: ./repo
-          commit_message: Update to ${{ github.event.inputs.version }}
+          commit_message: Updated to ${{ github.event.inputs.version }}
           
       - name: Update npm version
         run: |
@@ -115,7 +115,7 @@ jobs:
         uses: zwaldowski/git-commit-action@v1
         with:
           working_directory: ./repo
-          commit_message: Update to ${{ github.event.inputs.version }}
+          commit_message: Updated to ${{ github.event.inputs.version }}
           
       - name: Tag & push
         run: |
