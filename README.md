@@ -1,6 +1,6 @@
 ## tdweb - TDLib in a browser
 ***
-Note: the difference between this NPM package and official [tdweb](https://www.npmjs.com/package/tdweb) NPM package is that it is just built from latest version of [TDLib](https://github.com/tdlib/td). so we do not own this package and just build it because official [tdweb](https://www.npmjs.com/package/tdweb) is not regularly updated.
+Note: the difference between this NPM package and official [tdweb](https://www.npmjs.com/package/tdweb) NPM package is that it is just built from latest version of [TDLib](https://github.com/tdlib/td). so we do not develope this package and just build it because official [tdweb](https://www.npmjs.com/package/tdweb) is not regularly updated.
 if you want to build it yourself you can follow the instruction from [here](https://github.com/tdlib/td/tree/master/example/web).
 ***
 
